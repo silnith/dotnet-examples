@@ -18,4 +18,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiNet6\WebApiNet6.csproj" />
+  </ItemGroup>
+
 </Project>
