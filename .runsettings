@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<TargetPlatform>x64</TargetPlatform>
+		<EnvironmentVariables></EnvironmentVariables>
+	</RunConfiguration>
+	<DataCollectionRunSettings>
+		<DataCollectors>
+			<DataCollector friendlyName="Code Coverage" uri="datacollector://Microsoft/CodeCoverage/2.0" enabled="false">
+				<Configuration>
+					<Format>xml</Format>
+				</Configuration>
+			</DataCollector>
+			<DataCollector friendlyName="XPlat Code Coverage" uri="datacollector://Microsoft/CoverletCodeCoverage/1.0">
+				<Configuration>
+					<Format>Cobertura</Format>
+					<UseSourceLink>true</UseSourceLink>
+				</Configuration>
+			</DataCollector>
+		</DataCollectors>
+	</DataCollectionRunSettings>
+	<TestRunParameters></TestRunParameters>
+	<LoggerRunSettings>
+		<Loggers>
+			<Logger friendlyName="trx" enabled="true"></Logger>
+		</Loggers>
+	</LoggerRunSettings>
+</RunSettings>

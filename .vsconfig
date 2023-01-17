@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "components": [
+    "Microsoft.Component.MSBuild",
+    "Microsoft.Net.Component.4.7.2.TargetingPack",
+    "Microsoft.Net.Component.4.8.SDK",
+    "Microsoft.NetCore.Component.DevelopmentTools",
+    "Microsoft.NetCore.Component.Runtime.3.1",
+    "Microsoft.NetCore.Component.Runtime.6.0",
+    "Microsoft.NetCore.Component.SDK",
+    "Microsoft.NetCore.Component.Web",
+    "Microsoft.VisualStudio.Component.DiagnosticTools",
+    "Microsoft.VisualStudio.Component.Git",
+    "Microsoft.VisualStudio.Component.ManagedDesktop.Core",
+    "Microsoft.VisualStudio.Component.NuGet",
+    "Microsoft.VisualStudio.Component.Roslyn.Compiler",
+    "Microsoft.VisualStudio.Component.Roslyn.LanguageServices",
+    "Microsoft.VisualStudio.Component.Web",
+    "Microsoft.VisualStudio.ComponentGroup.Web",
+    "Microsoft.VisualStudio.ComponentGroup.Web.Client",
+    "Microsoft.VisualStudio.ComponentGroup.WebToolsExtensions",
+    "Microsoft.VisualStudio.Workload.CoreEditor",
+    "Microsoft.VisualStudio.Workload.NetWeb"
+  ]
+}

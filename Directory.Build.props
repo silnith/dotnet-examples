@@ -5,8 +5,13 @@
 		<Authors>silnith@gmail.com</Authors>
 		<Company>silnith.org</Company>
 		<Copyright>silnith.org</Copyright>
+		<PackageProjectUrl>https://github.com/silnith/dotnet-examples</PackageProjectUrl>
 		<PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<IncludeSource>true</IncludeSource>
+		<!--<IncludeSymbols>true</IncludeSymbols>-->
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
