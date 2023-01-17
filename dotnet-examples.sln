@@ -18,6 +18,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppNetCore3", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNet6", "WebApiNet6\WebApiNet6.csproj", "{17FAED6F-3E8E-4E76-B0CA-BE42959FFBB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNet6.Tests", "WebApiNet6.Tests\WebApiNet6.Tests.csproj", "{AF6F072E-5A6C-4599-AED4-B005FCA53128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{17FAED6F-3E8E-4E76-B0CA-BE42959FFBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17FAED6F-3E8E-4E76-B0CA-BE42959FFBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17FAED6F-3E8E-4E76-B0CA-BE42959FFBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6F072E-5A6C-4599-AED4-B005FCA53128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6F072E-5A6C-4599-AED4-B005FCA53128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6F072E-5A6C-4599-AED4-B005FCA53128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6F072E-5A6C-4599-AED4-B005FCA53128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
